@@ -1,0 +1,26 @@
+html{
+     background-image:url("bg.jpg");
+     background-size:100%;
+}
+form{
+     border: 2px solid black;
+     border-radius:25px;
+     text-align:center;
+     padding:20px;
+     margin:5% 35%;
+     background-color:gray;
+     opacity:0.5;
+     color:lime;
+    
+}
+h1{
+   text-align:center;
+}
+nav {
+    text-align:center;
+    text-decoration:none;
+}
+h2{
+   text-align:center;
+   color: lime;
+}
